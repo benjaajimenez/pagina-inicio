@@ -34,7 +34,7 @@ get_header();
             </div>
             
             <div class="hero-cta">
-                <a href="#" class="btn-hero" aria-label="Agendar consulta arquitectónica privada">
+                <a href="#" class="btn btn-primary btn-hero" aria-label="Agendar consulta arquitectónica privada">
                     <span>Agendar Consulta Privada</span>
                     <span>→</span>
                 </a>
@@ -49,7 +49,7 @@ get_header();
         </div>
     </section>
     <section class="benefits-section" role="region" aria-label="Por qué elegirnos">
-        <div class="benefits-container">
+        <div class="benefits-container container">
             <div class="section-header">
                 <h2 class="section-title">Tu <span class="title-highlight">empresa constructora de confianza</span> en Buenos Aires</h2>
                 <p class="section-subtitle">Más de 15 años construyendo hogares y sueños con la calidad que mereces</p>
@@ -202,7 +202,7 @@ get_header();
             </div>
             
             <div class="benefits-cta">
-                <a href="#" class="btn-benefits">
+                <a href="#" class="btn btn-primary btn-benefits">
                     <span class="btn-text">Solicitar presupuesto gratuito</span>
                     <div class="btn-icon">
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -217,7 +217,7 @@ get_header();
         </div>
     </section>
     <section class="services-section" aria-label="Nuestros servicios">
-        <div class="services-container">
+        <div class="services-container container">
             <div class="section-header">
                 <h2>Excelencia Constructiva de Clase Mundial</h2>
                 <p>Servicios de construcción premium respaldados por décadas de experiencia y la confianza de los clientes más exigentes del mundo. Cada proyecto es una obra maestra ejecutada con precisión absoluta.</p>
@@ -241,7 +241,7 @@ get_header();
                             <span class="feature-tag">Gestión integral</span>
                             <span class="feature-tag">Garantía total</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Consultar proyecto</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -265,7 +265,7 @@ get_header();
                             <span class="feature-tag">Supervisión 24/7</span>
                             <span class="feature-tag">Certificaciones</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Explorar opciones</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -289,7 +289,7 @@ get_header();
                             <span class="feature-tag">Acabados exclusivos</span>
                             <span class="feature-tag">Plazos garantizados</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Evaluar proyecto</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -313,7 +313,7 @@ get_header();
                             <span class="feature-tag">Construcción limpia</span>
                             <span class="feature-tag">Tiempo optimizado</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Conocer sistema</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -337,7 +337,7 @@ get_header();
                             <span class="feature-tag">Diagnóstico integral</span>
                             <span class="feature-tag">Seguimiento continuo</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Solicitar diagnóstico</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -361,7 +361,7 @@ get_header();
                             <span class="feature-tag">Optimización técnica</span>
                             <span class="feature-tag">Informes detallados</span>
                         </div>
-                        <a href="#" class="btn-service">
+                        <a href="#" class="btn btn-primary btn-service">
                             <span>Contratar supervisión</span>
                             <i class="fas fa-arrow-right"></i>
                         </a>
@@ -370,7 +370,7 @@ get_header();
             </div>
 
             <div class="more-services-container">
-                <a href="#" class="btn-more-services">
+                <a href="#" class="btn btn-primary btn-more-services">
                     <span>Ver todos nuestros servicios</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
@@ -378,7 +378,7 @@ get_header();
         </div>
     </section>
     <section class="process-section" role="region" aria-label="Proceso de trabajo">
-        <div class="process-container">
+        <div class="process-container container">
             <!-- Timeline del proceso -->
             <div class="process-timeline">
                 <div class="section-header">
@@ -431,7 +431,7 @@ get_header();
                 </div>
                 
                 <div class="process-cta">
-                    <a href="#contacto" class="btn-process">¿Cómo empezamos? Hablá con nosotros</a>
+                    <a href="#contacto" class="btn btn-primary btn-process">¿Cómo empezamos? Hablá con nosotros</a>
                 </div>
             </div>
             
@@ -450,7 +450,7 @@ get_header();
         </div>
     </section>
     <section class="projects-gallery" role="region" aria-label="Galería de proyectos">
-        <div class="gallery-container">
+        <div class="gallery-container container">
             <h2>Obras reales, resultados concretos</h2>
             <p>Nada de renders ni promesas vacías. Acá ves construcciones entregadas por nuestra empresa, en tiempo y forma, como fue pactado.</p>
             <div class="gallery-grid">
@@ -540,12 +540,12 @@ get_header();
                 </article>
             </div>
             <div class="gallery-cta">
-                <a href="#" class="btn-gallery">Ver más proyectos</a>
+                <a href="#" class="btn btn-primary btn-gallery">Ver más proyectos</a>
             </div>
         </div>
     </section>
     <section class="testimonials-section" role="region" aria-label="Testimonios de clientes">
-  <div class="testimonials-container">
+  <div class="testimonials-container container">
     <h2>Lo que dicen nuestros clientes</h2>
     <p>Testimonios reales de quienes confiaron en nosotros para construir sus proyectos.</p>
     
@@ -701,7 +701,7 @@ get_header();
   </div>
 </section>
 <section class="about-section" role="region" aria-label="Sobre la empresa">
-        <div class="about-container">
+        <div class="about-container container">
             <!-- Título centrado -->
             <div class="about-heading">
                 <h2>15 años construyendo espacios donde crecen familias, sueños y nuevas etapas</h2>
@@ -776,8 +776,8 @@ get_header();
                     </ul>
                     
                     <div class="cta-container">
-                        <a href="#" class="btn-about">Ver proyectos</a>
-                        <a href="#" class="btn-contact">Contactar</a>
+                        <a href="#" class="btn btn-primary btn-about">Ver proyectos</a>
+                        <a href="#" class="btn btn-outline btn-contact">Contactar</a>
                     </div>
                 </div>
             </div>
