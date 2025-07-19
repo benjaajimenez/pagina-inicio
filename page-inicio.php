@@ -48,6 +48,7 @@ get_header();
             <div class="scroll-arrow"></div>
         </div>
     </section>
+<div class="site-content">
     <section class="benefits-section" role="region" aria-label="Por qué elegirnos">
         <div class="benefits-container">
             <div class="section-header">
@@ -802,5 +803,6 @@ get_header();
     <!-- wp:shortcode -->
 [contact_form]
 <!-- /wp:shortcode -->
+</div>
 <?php get_footer(); ?>
 
