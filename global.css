@@ -1,0 +1,7 @@
+/* === Global Styles === */
+.container{max-width:1200px;margin:0 auto;padding:0 1.5rem;}
+.btn{display:inline-flex;align-items:center;gap:.75rem;padding:1rem 2rem;border-radius:6px;font-family:"Poppins",sans-serif;font-weight:600;text-decoration:none;transition:background-color .3s ease,transform .3s ease;}
+.btn-primary{background:#2563eb;color:#fff;box-shadow:0 4px 6px -1px rgba(37,99,235,0.3);}
+.btn-primary:hover{background:#1d4ed8;transform:translateY(-2px);box-shadow:0 6px 12px -1px rgba(37,99,235,0.4);}
+.btn-outline{background:transparent;color:#004b8d;border:2px solid #004b8d;}
+.btn-outline:hover{background:#004b8d;color:#fff;transform:translateY(-2px);}
